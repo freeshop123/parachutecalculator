@@ -1,0 +1,2 @@
+# parachutecalculator
+Ejtőernyő méret calculátor
